@@ -23,7 +23,7 @@ email: christinacbannon@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   These pages are holders of my resume and general thoughts. 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://christinabannon.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # instagram_username: christinacbannon
 github_username: christinabannon
 
