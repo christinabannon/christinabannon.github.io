@@ -1,7 +1,7 @@
 ---
-layout: page
+layout: about
 title: About
-permalink: /about/
+permalink: /about
 ---
 
 ### Mid Term Mini project  - (Adv) Web Programming Course
