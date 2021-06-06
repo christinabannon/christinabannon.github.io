@@ -7,4 +7,4 @@ categories: jekyll start
 
 Although this is the first post of the supposed opinions section I would like to begin with a fact. This dog (Mr. Boots)  of whom came into my posession yesterday is superior among dogs. 
 
-![Mr. Boots](MrBoots.jpg)
+![Mr. Boots](mr-boots.jpg)

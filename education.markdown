@@ -3,7 +3,7 @@ layout: about
 title: Education
 permalink: /education
 ---
-                                                                                 
+                         
 ### Master of Science in Computer Science
 Rowan University
 Concentration: Data Analytics 
