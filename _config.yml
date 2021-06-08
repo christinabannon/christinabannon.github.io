@@ -30,7 +30,7 @@ github_username: christinabannon
 # Build settings
 # theme: minimal
 # remote_theme: jekyll-theme-primer
-theme: jekyll-theme-yat
+theme: minima
 plugins:
   - jekyll-feed
 

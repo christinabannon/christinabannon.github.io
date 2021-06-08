@@ -10,8 +10,8 @@ source "https://rubygems.org"
 # gem "jekyll", "~> 4.2.0"
 
 # This is the default theme for new Jekyll sites. You may change this to anything you like.
-# gem "minima", "~> 2.5"
-gem "jekyll-theme-yat"
+gem "minima", "~> 2.5"
+# gem "jekyll-theme-yat"
 # gem 'alembic-jekyll-theme', '~> 4.1'
 # gem "jekyll-theme-primer", "~> 0.5.4"
 
